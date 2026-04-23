@@ -21,8 +21,10 @@ avoidance on a mobile robot with live web dashboard.
 
 ## Demo
 
-![Fire detected](assets/demo/fire detected.jpeg) 
 ![Fire + Person Emergency](assets/demo/fire_person_emergency.jpeg)
+
+![Fire detected](assets/demo/fire detected.jpeg)
+
 ![graphs](assets/demo/graphs.jpeg)
 
 ## System Flow
