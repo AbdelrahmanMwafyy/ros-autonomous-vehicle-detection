@@ -21,7 +21,7 @@ avoidance on a mobile robot with live web dashboard.
 
 ## Demo
 
-![Fire Detection](assets/demo/fire detected.jpeg)
+![Fire detected](assets/demo/fire detected.jpeg) 
 ![Fire + Person Emergency](assets/demo/fire_person_emergency.jpeg)
 ![graphs](assets/demo/graphs.jpeg)
 
