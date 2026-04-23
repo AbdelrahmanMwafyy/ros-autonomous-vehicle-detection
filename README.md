@@ -3,7 +3,6 @@
 Real-time fire detection, person detection, and obstacle 
 avoidance on a mobile robot with live web dashboard.
 
-![Fire Detected](assets/demo/fire_detected.png)
 
 ## What It Does
 
@@ -22,9 +21,9 @@ avoidance on a mobile robot with live web dashboard.
 
 ## Demo
 
-![Fire Detection](assets/demo/fire_detected.png)
-![Fire + Person Emergency](assets/demo/fire_person_emergency.png)
-![graphs](assets/demo/Graphs.png)
+![Fire Detection](assets/demo/fire detected.jpeg)
+![Fire + Person Emergency](assets/demo/fire_person_emergency.jpeg)
+![graphs](assets/demo/Graphs.jpeg)
 
 ## System Flow
 
